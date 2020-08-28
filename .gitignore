@@ -2,3 +2,4 @@ build
 com.gokhana.application-image
 mods/
 .idea
+*.iml
